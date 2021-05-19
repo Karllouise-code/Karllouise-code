@@ -46,7 +46,8 @@
 
 ---
 
-<img align="left" alt"Karllouise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=radical" />
+<img align="left" alt"Karllouise's Github Stats" src="https://github-readme-stats.karllouise-code.app/api?username=Karllouise-code&show_icons=true&theme=radical" />
+
 
 [facebook]: https://www.facebook.com/karllouise08/
 [instagram]: https://www.instagram.com/kalowies_/
