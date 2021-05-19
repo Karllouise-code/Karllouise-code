@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt ="facebook" width="22px" src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" />][facebook]
+[<img align="left" alt ="facebook" width="22px" src="https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/facebook-square-social-media-512.png" />][facebook]
 
 [<img align="left" alt ="instagram" width="22px" src="https://user-images.githubusercontent.com/24874033/39674914-011fd850-5171-11e8-82b5-01e8613114cf.png" />][instagram]
 
@@ -24,13 +24,13 @@
 
 [<img align="left" alt ="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />][java]
 
-[<img align="left" alt ="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][clanguage]
+[<img align="left" alt ="C" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][clanguage]
 
-[<img align="left" alt ="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />][laravel]
+[<img align="left" alt ="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />][laravel]
 
-[<img align="left" alt ="Php" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />][php]
+[<img align="left" alt ="Php" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />][php]
 
-[<img align="left" alt ="html5" width="26px" src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" />][html]
+[<img align="left" alt ="html5" width="26px" src="https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg" />][html]
 
 [<img align="left" alt ="Css3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />][css]
 
