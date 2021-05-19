@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Tools I use⚙️🛠️:
+### Languages and Tools I use⚙ 🛠️:
 [<img align="left" alt ="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />][vscode]
 
 [<img align="left" alt ="html5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -38,10 +38,15 @@
 <br />
 <br />
 
+---
 
 ### 📺Latest Youtube Videos 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+---
+
+<img align="left" alt"Karllouise's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=radical" />
 
 [facebook]: https://www.facebook.com/karllouise08/
 [instagram]: https://www.instagram.com/kalowies_/
