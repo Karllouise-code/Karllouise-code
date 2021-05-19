@@ -15,7 +15,7 @@
 
 [<img align="left" alt ="youtube" width="22px" src="https://icons-for-free.com/iconfiles/png/512/social+square+youtube+icon-1320185494902500914.png" />][youtube]
 
-[<img align="left" alt ="linkedin" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtvV0-euJC9O724siAT1cHI1b1i_0YFcCtgLhx1PYGIangud-AsXTENZquRTrKliOzz8&usqp=CAU" />][linkedin]
+[<img align="left" alt ="linkedin" width="22px" src="https://www.vectorico.com/download/social_media/LinkedIn-Icon-Square-Dark.jpg" />][linkedin]
 
 <br />
 
@@ -28,7 +28,7 @@
 
 [<img align="left" alt ="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />][laravel]
 
-[<img align="left" alt ="Php" width="45px" padding-top="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />][php]
+[<img align="left" alt ="Php" top="50px" width="45px" padding-top="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />][php]
 
 [<img align="left" alt ="html5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 
