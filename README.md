@@ -15,7 +15,7 @@
 
 [<img align="left" alt ="youtube" width="22px" src="https://icons-for-free.com/iconfiles/png/512/social+square+youtube+icon-1320185494902500914.png" />][youtube]
 
-[<img align="left" alt ="linkedin" width="22px" src="https://www.shareicon.net/data/512x512/2016/11/14/852302_square_512x512.png" />][linkedin]
+[<img align="left" alt ="linkedin" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHtvV0-euJC9O724siAT1cHI1b1i_0YFcCtgLhx1PYGIangud-AsXTENZquRTrKliOzz8&usqp=CAU" />][linkedin]
 
 <br />
 
