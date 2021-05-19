@@ -7,7 +7,7 @@
 - 🎆 2021 Goals: Do things wiser
 - ✔ Fun fact: I love to play online games and exercise
 
-### Connect with me:
+### Connect with me 🔗:
 
 [<img align="left" alt ="facebook" width="22px" src="https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/facebook-square-social-media-512.png" />][facebook]
 
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Tools I use:
+### Languages and Tools I use⚙️🛠️:
 [<img align="left" alt ="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />][vscode]
 
 [<img align="left" alt ="html5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -39,7 +39,7 @@
 <br />
 
 
-### Latest Youtube Videos
+### 📺Latest Youtube Videos 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
