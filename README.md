@@ -18,7 +18,7 @@
 <br />
 
 
-### Languages and Tools I use⚙ 🛠️:
+### Languages and Tools I use 🛠️:
 <code><img height="35" alt="Visual Studio Code" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/vscode.svg"></code>
 <code><img height="40" alt="html5" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/html.png"></code>
 <code><img height="40" alt="Css3" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/css.png"></code>
@@ -35,7 +35,7 @@
 ---
 
 
-### 📺 Latest Youtube Videos 
+### Latest Youtube Videos 📺:
 <!-- YOUTUBE:START -->
 - [How Covid-19 Affected The World - Short Poem](https://www.youtube.com/watch?v=GH3-EzaBSl4)
 - [CC4 FINAL REQUIREMENT - Data Structure & Algorithms](https://www.youtube.com/watch?v=jOtSyszfHlE)
