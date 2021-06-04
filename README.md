@@ -36,6 +36,11 @@
 
 ### 📺 Latest Youtube Videos 
 <!-- YOUTUBE:START -->
+- [How Covid-19 Affected The World - Short Poem](https://www.youtube.com/watch?v=GH3-EzaBSl4)
+- [CC4 FINAL REQUIREMENT - Data Structure & Algorithms](https://www.youtube.com/watch?v=jOtSyszfHlE)
+- [PE2 - 1970's Dance](https://www.youtube.com/watch?v=OX-vlHwbYao)
+- [Impressionism Art and Claude Monet 18th - 19th Century](https://www.youtube.com/watch?v=FUwIRRC-DCc)
+- [Cry of Rebellion - "Where did the cry of rebellion happened?"](https://www.youtube.com/watch?v=NTLAW_GPsFM)
 <!-- YOUTUBE:END -->
 
 ---
