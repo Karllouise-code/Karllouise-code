@@ -1,6 +1,6 @@
 ## Hi there, I'm [Karl!](https://www.facebook.com/karllouise08/) 🖤
 
-### I'm a Student, Sporty, and Explorer!
+### I'm a [Student](https://laracasts.com/@Karl%20Louise%20Rito), Sporty, and [Trailblazer!](https://trailblazer.me/id/karllouise08)
 
 - 👨‍🎓 Just a Student who love codes
 - 🤹‍♂ I'm currently learning Java ☕ and a bit of Python 🐍
