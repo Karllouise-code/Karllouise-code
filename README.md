@@ -49,10 +49,10 @@
 
 ---
 
-
+<div display>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=radical" />
-  <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllouise-code&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllouise-code&theme=radical" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=33092302-e613-42dc-bd0b-e1ab0b519425&theme=radical" />
 </a>
 
