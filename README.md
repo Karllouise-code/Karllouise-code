@@ -14,7 +14,7 @@
 [<img align="left" alt ="twitter" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/twitter.png" />][twitter]
 [<img align="left" alt ="youtube" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/youtube.png" />][youtube]
 [<img align="left" alt ="linkedin" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/linkedin.jpg" />][linkedin]
-[<img align="left" alt ="codesandbox" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/codesandbox.png" />][codesandbox]
+[<img align="left" alt ="codesandbox" width="25px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/codesandbox1.png" />][codesandbox]
 
 
 <br />
