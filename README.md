@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Just a Student who love codes
 - 🤹‍♂ I'm currently into front-end web development
-- 💻 I'm currently taking sidehustle internship
+- 💻 I'm currently taking SideHustle internship
 - 🎆 2021 Goals: Do things wiser
 - ✔ Fun fact: I love to play online games and exercise
 
