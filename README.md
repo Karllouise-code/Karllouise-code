@@ -3,7 +3,8 @@
 ### I'm a [Student](https://laracasts.com/@Karl%20Louise%20Rito), Sporty, and [Trailblazer!](https://trailblazer.me/id/karllouise08)
 
 - 👨‍🎓 Just a Student who love codes
-- 🤹‍♂ I'm currently learning Java ☕ and a bit of Python 🐍
+- 🤹‍♂ I'm currently into front-end web development
+- 💻 I'm currently taking sidehustle internship
 - 🎆 2021 Goals: Do things wiser
 - ✔ Fun fact: I love to play online games and exercise
 
