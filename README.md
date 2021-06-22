@@ -32,8 +32,6 @@
 <code><img height="35" alt="Laravel" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/laravel.png"></code>
 <code><img height="35" alt="Python" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/python.png"></code>
 <code><img height="35" alt="Git" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/git.png"></code>
-<code><img height="35" alt="Xampp" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/xampp.png"></code>
-<code><img height="35" alt="Table Plus" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/table_plus.png"></code>
 
 
 ---
