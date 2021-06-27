@@ -16,7 +16,7 @@
 [<img align="left" alt ="twitter" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/twitter.png" />][twitter]
 [<img align="left" alt ="youtube" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/youtube.png" />][youtube]
 [<img align="left" alt ="linkedin" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/linkedin.jpg" />][linkedin]
-[<img align="left" alt ="codesandbox" width="25px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/codesandbox1.png" />][codesandbox]
+[<img align="left" alt ="dev" width="28px" height="23px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/devlogo.png" />][dev]
 
 
 <br />
@@ -61,13 +61,6 @@
 [facebook]: https://www.facebook.com/karllouise08/
 [instagram]: https://www.instagram.com/kalowies_/
 [twitter]: https://twitter.com/karl_rito
-[youtube]: https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q
+[youtube]: https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q/
 [linkedin]: https://www.linkedin.com/in/karllouise08/
-[codesandbox]: https://codesandbox.io/u/Karllouise-code
-[vscode]: https://code.visualstudio.com/
-[java]: https://www.java.com/en/
-[clanguage]: https://www.learn-c.org/
-[laravel]: https://laravel.com/
-[php]: https://www.php.net/
-[html]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[dev]: https://dev.to/kalowies_/
