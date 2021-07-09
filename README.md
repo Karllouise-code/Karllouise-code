@@ -6,6 +6,7 @@
 - 👨‍🎓 Just a Student who love codes
 - 🤹‍♂ I'm currently into front-end web development
 - 💻 I'm currently taking SideHustle internship
+- ✍️ I have started writing a blog at [Hashnode](https://hashnode.com/@kalowies)
 - 🎆 2021 Goals: Do things wiser
 - ✔ Fun fact: I love to play online games and exercise
 
@@ -63,4 +64,5 @@
 [twitter]: https://twitter.com/karl_rito
 [youtube]: https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q/
 [linkedin]: https://www.linkedin.com/in/karllouise08/
+[hashnode]: https://hashnode.com/@kalowies
 [dev]: https://dev.to/kalowies_/
