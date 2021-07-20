@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Just a Student who love codes
 - 🤹‍♂ I'm currently into front-end web development
-- 💻 I'm currently taking SideHustle internship
+- 💻 I'm currently taking JavaScript 30 Day Challenge!
 - ✍️ I have started writing a blog at [Hashnode](https://hashnode.com/@kalowies)
 - 🎆 2021 Goals: Do things wiser
 - ✔ Fun fact: I love to play online games and exercise
