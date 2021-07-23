@@ -27,9 +27,7 @@
 <code><img height="35" alt="Visual Studio Code" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/vscode.svg"></code>
 <code><img height="40" alt="html5" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/html.png"></code>
 <code><img height="40" alt="Css3" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/css.png"></code>
-<code><img height="33" alt="Sass" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/sass.png"></code>
-<code><img height="28" alt="Php" padding-top="35px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/php.png"></code>
-<code><img height="35" alt="Laravel" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/laravel.png"></code>
+<code><img height="40" alt="Css3" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/javascript.png"></code>
 <code><img height="45" alt="Java" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/java.svg"></code>
 <code><img height="35" alt="Git" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/git.png"></code>
 
