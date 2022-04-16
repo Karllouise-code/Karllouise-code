@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Just a Student who love codes
 - 💻 I'm currently on a training using a Laravel framework
-- ✍️ I have started writing a blog at [Hashnode](https://karllouiserito.hashnode.dev/)
+- ✍️ Check out my blog at [Hashnode](https://karllouiserito.hashnode.dev/)
 - 🎆 2022 Goals: Be More Productive
 - ✔ Fun fact: I love to play online games and exercise
 
