@@ -4,8 +4,8 @@
 ### I'm a [Student](https://laracasts.com/@Karl%20Louise%20Rito), Sporty, and [Trailblazer!](https://trailblazer.me/id/karllouise08)
 
 - 👨‍🎓 Just a Student who love codes
-- 🤹‍♂ I'm currently into taking SideHustles
 - 💻 I'm currently on a training using a Laravel framework
+- ✍️ I have started writing a blog at [Hashnode](https://karllouiserito.hashnode.dev/)
 - 🎆 2022 Goals: Be More Productive
 - ✔ Fun fact: I love to play online games and exercise
 
