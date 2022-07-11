@@ -26,6 +26,8 @@
 ### Languages and Tools I use 🛠️:
 
 <code><img height="35" alt="Visual Studio Code" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/vscode.svg"></code>
+<code><img height="35" alt="Vuejs" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/vuejs.png"></code>
+<code><img height="35" alt="GraphQL" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/graphql.png"></code>
 <code><img height="40" alt="html5" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/html.png"></code>
 <code><img height="40" alt="Css3" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/css.png"></code>
 <code><img height="40" alt="Css3" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/javascript.png"></code>
