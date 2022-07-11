@@ -6,8 +6,8 @@
 
 ### I'm a [Student](https://laracasts.com/@Karl%20Louise%20Rito), Sporty, and [Trailblazer!](https://trailblazer.me/id/karllouise08)
 
-- 👨‍🎓 Just a Student who love codes
-- 💻 I'm currently on a training using a Laravel framework
+- 👨‍🎓 Just a student who is a full-stack developer
+- 💻 I'm currently a junior web developer using a Laravel framework, Vue.js, and GraphQL Stack
 - ✍️ Check out my blog at [Hashnode](https://karllouiserito.hashnode.dev/)
 - 🎆 2022 Goals: Be More Productive
 - ✔ Fun fact: I love to play online games and exercise
