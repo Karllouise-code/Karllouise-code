@@ -9,7 +9,7 @@
 - 👨‍🎓 Just a student who is a full-stack developer
 - 💻 I'm currently a junior web developer using a Laravel framework, Vue.js, and GraphQL Stack
 - ✍️ Check out my blog at [Hashnode](https://karllouiserito.hashnode.dev/)
-- 🎆 2022 Goals: Be More Productive
+- 🎆 2023 Goals: Be More Productive
 - ✔ Fun fact: I love to play online games and exercise
 
 ### Connect with me 🔗:
