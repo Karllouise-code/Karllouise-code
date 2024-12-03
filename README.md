@@ -51,7 +51,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=github_dark" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllouise-code&theme=github_dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalowies_&theme=github_dark" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalowies_&theme=github_dark" /> -->
 </a>
 
 [facebook]: https://www.facebook.com/karllouise08/
