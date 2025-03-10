@@ -3,13 +3,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karllouise-code.Karllouise-code)
 [![GitHub followers](https://img.shields.io/github/followers/Karllouise-code.svg?style=social&label=Follow)](https://github.com/Karllouise-code?tab=followers)
 [![wakatime](https://wakatime.com/badge/user/33092302-e613-42dc-bd0b-e1ab0b519425/project/364336a6-0e82-4176-89b6-7166cb61281d.svg)](https://wakatime.com/badge/user/33092302-e613-42dc-bd0b-e1ab0b519425/project/364336a6-0e82-4176-89b6-7166cb61281d)
+[![Strava](https://img.shields.io/badge/Follow%20me%20on-STRAVA-orange?style=flat&logo=strava)](https://strava.com/athletes/152143433)
 
 ### I'm a [Student](https://laracasts.com/@Karl%20Louise%20Rito), Sporty, and [Trailblazer!](https://trailblazer.me/id/karllouise08)
 
-- 👨‍🎓 Just a student who is a full-stack developer
-- 💻 I'm currently learning about AWS Sagemaker 🤓
+- 👨‍🎓 Just a full-stack developer
+- 💻 I'm currently learning about working remotely ☁️
 - ✍️ Check out my blog at [Hashnode](https://karllouiserito.hashnode.dev/)
-- 🎆 2024 Goals: Be More Productive
+- 🎆 2025 Goal: Higher 💸
 - ✔ Fun fact: I love to play online games and exercise
 
 ### Connect with me 🔗:
