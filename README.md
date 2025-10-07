@@ -1,64 +1,130 @@
-## Hi there, I'm [Karl!](https://karllouiserito.netlify.app/) 🖤
+<div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Karllouise-code.Karllouise-code)
-[![GitHub followers](https://img.shields.io/github/followers/Karllouise-code.svg?style=social&label=Follow)](https://github.com/Karllouise-code?tab=followers)
-[![wakatime](https://wakatime.com/badge/user/33092302-e613-42dc-bd0b-e1ab0b519425/project/364336a6-0e82-4176-89b6-7166cb61281d.svg)](https://wakatime.com/badge/user/33092302-e613-42dc-bd0b-e1ab0b519425/project/364336a6-0e82-4176-89b6-7166cb61281d)
-[![Strava](https://img.shields.io/badge/Follow%20me%20on-STRAVA-orange?style=flat&logo=strava)](https://strava.com/athletes/152143433)
+# 👋 Hey, I'm Karl Louise Rito!
 
-### I'm a [Student](https://laracasts.com/@Karl%20Louise%20Rito), [Sporty](https://strava.com/athletes/152143433), and [Trailblazer!](https://trailblazer.me/id/karllouise08)
+### Full-Stack Developer | Student | Athlete | Trailblazer
 
-- 👨‍🎓 Just a full-stack developer
-- 💻 I'm currently learning about working remotely ☁️
-- ✍️ Check out my blog at [Hashnode](https://karllouiserito.hashnode.dev/)
-- 🎆 2025 Goal: Higher 💸
-- ✔ Fun fact: I love to play online games and exercise
+<p align="center">
+  <a href="https://karllouiserito.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/karllouise08/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://karllouiserito.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://strava.com/athletes/152143433">
+    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/>
+  </a>
+</p>
 
-### Connect with me 🔗:
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Karllouise-code.Karllouise-code" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/Karllouise-code.svg?style=social&label=Follow" alt="Followers"/>
+  <a href="https://wakatime.com/@33092302-e613-42dc-bd0b-e1ab0b519425">
+    <img src="https://wakatime.com/badge/user/33092302-e613-42dc-bd0b-e1ab0b519425.svg" alt="WakaTime"/>
+  </a>
+</p>
 
-[<img align="left" alt ="facebook" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/facebook.webp" />][facebook]
-[<img align="left" alt ="instagram" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/instagram.png" />][instagram]
-[<img align="left" alt ="twitter" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/twitter.png" />][twitter]
-[<img align="left" alt ="youtube" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/youtube.png" />][youtube]
-[<img align="left" alt ="linkedin" width="22px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/linkedin.jpg" />][linkedin]
-[<img align="left" alt ="dev" width="28px" height="23px" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/devlogo.png" />][dev]
-
-<br />
-
-### Languages and Tools I use 🛠️:
-
-<code><img height="35" alt="Visual Studio Code" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/vscode.svg"></code>
-<code><img height="35" alt="Laravel" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/laravel.png"></code>
-<code><img height="30" alt="php" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/php.png"></code>
-<code><img height="30" alt="Vuejs" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/vuejs.png"></code>
-<code><img height="35" alt="GraphQL" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/graphql.png"></code>
-<code><img height="35" alt="Git" src="https://github.com/Karllouise-code/Karllouise-code/blob/master/images/git.png"></code>
+</div>
 
 ---
 
-### Latest Youtube Videos 📺:
+## 🚀 About Me
+
+```typescript
+const karl = {
+    role: "Full-Stack Developer",
+    location: "Philippines",
+    currentFocus: "Remote Work & Cloud Technologies",
+    goals2025: ["Level up skills 💪", "Build impactful projects 🎯", "Grow income 💸"],
+    interests: ["Gaming 🎮", "Fitness & Running 🏃", "Tech Blogging ✍️"],
+    learning: ["Cloud Architecture ☁️", "Modern DevOps 🔧", "System Design 🏗️"]
+};
+```
+
+- 👨‍🎓 Computer Science Student passionate about building scalable applications
+- 💻 Love crafting elegant solutions to complex problems
+- 🏃 Active runner tracking my journey on [Strava](https://strava.com/athletes/152143433)
+- 📝 Sharing knowledge through my [blog](https://karllouiserito.hashnode.dev/)
+- 🌱 Salesforce Trailblazer exploring the ecosystem
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools & Technologies
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllouise-code&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karllouise-code&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [ITery Online Ordering System Presentation Using VBNET](https://www.youtube.com/watch?v=UMbp9aqe4lg)
-- [25th Wedding Anniversary - Bernard &amp; Rose](https://www.youtube.com/watch?v=7vRD7iq9P6M)
+- [25th Wedding Anniversary - Bernard & Rose](https://www.youtube.com/watch?v=7vRD7iq9P6M)
 - [How Covid-19 Affected The World - Short Poem](https://www.youtube.com/watch?v=GH3-EzaBSl4)
-- [CC4 FINAL REQUIREMENT - Data Structure &amp; Algorithms](https://www.youtube.com/watch?v=jOtSyszfHlE)
-- [PE2 - 1970&#39;s Dance](https://www.youtube.com/watch?v=OX-vlHwbYao)
+- [CC4 FINAL REQUIREMENT - Data Structure & Algorithms](https://www.youtube.com/watch?v=jOtSyszfHlE)
+- [PE2 - 1970's Dance](https://www.youtube.com/watch?v=OX-vlHwbYao)
 <!-- YOUTUBE:END -->
+
+▶️ [View more on YouTube](https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q/)
 
 ---
 
-<div display>
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllouise-code&theme=github_dark" />
-<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalowies_&theme=github_dark" /> -->
-</a>
+## 🌐 Connect With Me
 
-[facebook]: https://www.facebook.com/karllouise08/
-[instagram]: https://www.instagram.com/kalowies_/
-[twitter]: https://twitter.com/karl_rito
-[youtube]: https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q/
-[linkedin]: https://www.linkedin.com/in/karllouise08/
-[hashnode]: https://hashnode.com/@kalowies
-[dev]: https://dev.to/kalowies_/
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/karllouise08/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kalowies_/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karl_rito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karllouise08/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kalowies_/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://karllouiserito.hashnode.dev/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Code. Learn. Build. Repeat."
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Karllouise-code&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+**⭐️ From [Karllouise-code](https://github.com/Karllouise-code)**
+
+</div>
