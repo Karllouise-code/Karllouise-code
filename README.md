@@ -101,10 +101,6 @@ const karl = {
 
 ### 💬 "Code. Learn. Build. Repeat."
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Karllouise-code&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
-
 **⭐️ From [Karllouise-code](https://github.com/Karllouise-code)**
 
 </div>
