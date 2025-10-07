@@ -44,8 +44,8 @@ const karl = {
 ## Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Karllouise-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karllouise-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Karllouise-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karllouise-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </div>
 
 ## Connect
