@@ -44,12 +44,6 @@ const karl = {
 };
 ```
 
-- 👨‍🎓 Computer Science Student passionate about building scalable applications
-- 💻 Love crafting elegant solutions to complex problems
-- 🏃 Active runner tracking my journey on [Strava](https://strava.com/athletes/152143433)
-- 📝 Sharing knowledge through my [blog](https://karllouiserito.hashnode.dev/)
-- 🌱 Salesforce Trailblazer exploring the ecosystem
-
 ---
 
 ## 🛠️ Tech Stack
@@ -84,20 +78,6 @@ const karl = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karllouise-code&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
----
-
-## 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [ITery Online Ordering System Presentation Using VBNET](https://www.youtube.com/watch?v=UMbp9aqe4lg)
-- [25th Wedding Anniversary - Bernard & Rose](https://www.youtube.com/watch?v=7vRD7iq9P6M)
-- [How Covid-19 Affected The World - Short Poem](https://www.youtube.com/watch?v=GH3-EzaBSl4)
-- [CC4 FINAL REQUIREMENT - Data Structure & Algorithms](https://www.youtube.com/watch?v=jOtSyszfHlE)
-- [PE2 - 1970's Dance](https://www.youtube.com/watch?v=OX-vlHwbYao)
-<!-- YOUTUBE:END -->
-
-▶️ [View more on YouTube](https://www.youtube.com/channel/UCsCyEjwE565qKzbTfL2RC7Q/)
 
 ---
 
