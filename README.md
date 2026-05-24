@@ -46,8 +46,8 @@ const karl = {
 ## Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api?username=Karllouise-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Karllouise-code&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="./stats/github-stats.svg"/>
+  <img height="180em" src="./stats/top-langs.svg"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=Karllouise-code&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
