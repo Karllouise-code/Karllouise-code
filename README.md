@@ -22,7 +22,7 @@ const karl = {
     role: "Full-Stack Developer",
     location: "Philippines",
     focus: "Remote Work & Cloud Technologies",
-    goals2025: ["Level up skills", "Build impactful projects", "Grow income"],
+    goals2026: ["Level up skills", "Build impactful projects", "Grow income"],
     interests: ["Gaming", "Fitness & Running", "Tech Blogging"],
     learning: ["Cloud Architecture", "Modern DevOps", "System Design"]
 };
